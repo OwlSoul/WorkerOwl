@@ -9,6 +9,7 @@ Contains:
 - awscli
 - jq (JSON parser)
 - sd (rust based replacement utility to forget about sed/awk)
-- util-linus (for uuidgen)
+- uuid
 - python linter (pylint)
 - zip and unzip
+- ssh client
