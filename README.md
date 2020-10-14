@@ -12,6 +12,3 @@ Contains:
 - util-linus (for uuidgen)
 - python linter (pylint)
 - zip and unzip
-
-On startup:
-- Will put the contents of SSH_PRIVATE_KEY environmental variable to /root/.ssh/id_rsa
